@@ -1,0 +1,4 @@
+#Wed Nov 27 23:41:55 BRST 2019
+base.0=C\:\\Users\\moises\\source\\repos\\moises100hp\\Flutter\\Projetos\\calculadora_de_imc\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
